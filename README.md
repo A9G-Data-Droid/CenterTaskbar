@@ -1,3 +1,5 @@
+### NOTE: This has been superceeded by Windows 11
+
 # CenterTaskbar
 
 ![Gif](https://user-images.githubusercontent.com/3608298/49901443-36234800-fe2f-11e8-89dd-9ab609a34fba.gif)
